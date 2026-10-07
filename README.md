@@ -1,5 +1,5 @@
 # Hi 👋 I'm Amirali
-
+I live in Tabriz in IRAN
 ## 🧠 About Me
 - Python Developer
 - Machine Learning Learner
